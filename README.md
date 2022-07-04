@@ -27,6 +27,8 @@
 
 ### 데이터파이프라인
 
+<img width="1037" alt="스크린샷 2022-07-04 오전 9 02 29" src="https://user-images.githubusercontent.com/86764734/177061891-8cda9ca8-2460-4f8f-b2c9-97d418394eeb.png">
+
 ---
 
 ### 분석과정
